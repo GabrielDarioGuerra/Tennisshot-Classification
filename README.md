@@ -1,56 +1,112 @@
-# **Tennis-Schläge-Klassifizierungsaufgabe**
+# Hi there! 👋
 
-## Autoren:
-- Gabriel Guerra  
-- Simon Bieri  
+Welcome to the GitHub profile of Gabriel Guerra.
 
-Ziel des Projektes ist es, Tennisschläge (`forehand`, `backhand`, `serve`) anhand von Bildern zu klassifizieren.  
-Die Bilder beinhalten tennis-spielende Personen von hinten. Dabei wurden zwei verschiedene Datenquellen verwendet:  
-- **Aus einem Online-Artikel** (genauere Beschreibung im HTML in Part 1)  
-- **Selbst extrahierte Bilder** aus eigenen Videoaufnahmen  
+## About Me:
+<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/business.png" width="30" /> Business Analyst  
+<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/data.png" width="30" /> Data Scientist  
+<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/python.png" width="30" /> Programmer  
+<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/tennis.png" width="30" /> Tennis Enthusiast  
 
-Das Projekt ist in zwei Teilen aufgeteilt:
+[<strong>Connect with me on LinkedIn</strong>](https://www.linkedin.com/in/gabrieldarioguerra/){:target="_blank" rel="noopener noreferrer"}
 
----
+## My Top Projects:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GabrielDarioGuerra/Time-Series-stock-prediction" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/time_seriers_stock_prediction.webp" width="150" />
+      </a>
+      <br />
+      <strong>Time-Series Stock Prediction</strong>
+      <br />
+      <small>Predicting stock prices using time-series analysis and machine learning.</small>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GabrielDarioGuerra/Tennis-Classification" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/tennisshot_classification.webp" width="150" />
+      </a>
+      <br />
+      <strong>Tennis Classification Project</strong>
+      <br />
+      <small>Classifying tennis shots using computer vision and deep learning.</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GabrielDarioGuerra/NLP-video-game-review-analysis" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/videogames.webp" width="150" />
+      </a>
+      <br />
+      <strong>NLP Video Game Reviews Project</strong>
+      <br />
+      <small>Analyzing video game reviews using Natural Language Processing (NLP).</small>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Data%20Engineering" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/proengineers.webp" width="150" />
+      </a>
+      <br />
+      <strong>Pro Engineers Project</strong>
+      <br />
+      <small>Data engineering project focusing on building robust data pipelines.</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Euro%20Soccer" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/euro.webp" width="150" />
+      </a>
+      <br />
+      <strong>Euro Soccer Project</strong>
+      <br />
+      <small>Analyzing European soccer data to uncover insights and trends.</small>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Volcanoes%20Streamlit" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/volcano.webp" width="150" />
+      </a>
+      <br />
+      <strong>Volcano Project</strong>
+      <br />
+      <small>Interactive visualization of global volcano data using Streamlit.</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/NBA%20Interactive%20Map" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/NBA%20icon.webp" width="150" />
+      </a>
+      <br />
+      <strong>NBA Project</strong>
+      <br />
+      <small>Interactive map showcasing NBA team locations and statistics.</small>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Colombia%20Data%20Analytics" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/colombia.webp" width="150" />
+      </a>
+      <br />
+      <strong>Colombia Project</strong>
+      <br />
+      <small>Data analytics project focusing on Colombian datasets.</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/SQL%20European%20Soccer%20League" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/sqlfootball.webp" width="150" />
+      </a>
+      <br />
+      <strong>SQL Soccer Project</strong>
+      <br />
+      <small>Exploring European soccer league data using SQL queries.</small>
+    </td>
+  </tr>
+</table>
 
-## **Part 1**  
+## Additional Resources:
+- [Project Presentation 1](https://1drv.ms/u/s!Aln5M-1qAY5Ml7QBcq09aRqtvlcN1w?e=BgjWzb)
+- [Project Presentation 2](https://1drv.ms/u/s!Aln5M-1qAY5Ml7QAWFX9ZGyPnQeCHw?e=Q1WPCW)
 
-### **Inhalt**  
-- Beschreibung der Problemstellung  
-- Beschreibung der verwendeten Datenquellen  
-- Vorprozessierung (Cropping) der Bilder  
-- Klassifizierung mit **ResNet-18**  
-- Klassifizierungsbenchmark mit einer **Keypoint-basierten Methode**  
-
-### **Ergebnisse**  
-- Die **ResNet-18-Methode** erzielte auf einzelnen Datasets eine **Accuracy** von **86 %**, zeigte jedoch Schwächen bei der Generalisierung auf neue Daten:  
-  Zwischen den Datasets wurde nur eine **Accuracy** von **25 %** erreicht – schlechter als die zufällige Wahrscheinlichkeit von **33 %**.  
-- Im Gegensatz dazu erreichte die **Keypoint-Methode** eine starke **Accuracy** von **86 %** zwischen verschiedenen Datasets, basierend lediglich auf Keypoint-Daten, die mithilfe von **MediaPipe Pose** extrahiert wurden.  
-
-### **Fazit**  
-Dieses Projekt kombiniert **Bildklassifikation und Keypoint-Analyse**, um robuste Modelle zu entwickeln.  
-Die Ergebnisse verdeutlichen das Potenzial der **Keypoint-Methode für Cross-Dataset-Generalization** und die Bedeutung einer umfassenden Datenbasis zur Verbesserung der Generalisierung für Modelle wie **ResNet-18**.  
-
-📂 **[Part 1 Notebook hier abrufen](https://1drv.ms/u/s!AIn5M-1qAY5MI7QAWFX9ZGyPnQeCHw?e=WaX2t0)**  
-
----
-
-## **Part 2**  
-
-### **Inhalt**  
-- Einfache, schnelle Klassifizierung mit **Keypoints** und **Gradient Boost Classifier**  
-- Feature-Extraktion  
-- Data Augmentation  
-- Hyper-Parameter-Tuning  
-
-### **Ergebnisse**  
-- Nur anhand von **Körperteil-Koordinaten** kann ein einfaches Machine-Learning-Modell trainiert werden.  
-- Im ersten Versuch wurde das Modell **nur mit dem Online-Datensatz trainiert**.  
-  - Im Testset desselben Datensets wurde eine **Accuracy von 90 %** erreicht.  
-  - Mit demselben Modell auf den **selbst erfassten Datensatz** jedoch nur eine **Accuracy von 73 %**.  
-- Mithilfe von **Training über den gesamten Datensatz**, **Data Augmentation** und **Hyper-Parameter-Tuning** konnte eine **Accuracy von 93 %** auf dem Testset erreicht werden.  
-
-### **Fazit**  
-Es ist absolut möglich, dass mithilfe von **vortrainierten Modellen**, welche **Keypoints** aus Bildern extrahieren, ein **generisches Klassifizierungsmodell** erstellt werden kann.  
-
-📂 **[Part 2 Notebook hier abrufen](https://1drv.ms/u/s!AIn5M-1qAY5MI7QAWFX9ZGyPnQeCHw?e=WaX2t0)**  
+<small>Note: The images in this README are optimized for GitHub. If they appear too large, please view the project links for more details.</small>
